@@ -3,7 +3,7 @@ animate.css
 
 ## EXPLANATION
 
-Animate.css, is a [.css] library file which can be freely downloaded(the link is shown, below); then, after including a link to the CSS file inside of the head section of your HTML document...it's very easy to set up and use the animations inside of your web page(go check out the vido tutorial included, below).
+Animate.css, is a [.css] library file which can be freely downloaded(the link is shown, below); then, after including a link to the CSS file inside of the head section of your HTML document...it's very easy to set up and use the animations inside of your web page(go check out the video tutorial link also included, below).
 
 ## Links...
 
