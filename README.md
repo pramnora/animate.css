@@ -9,7 +9,7 @@ Animate.css, is a [.css] library file which can be freely downloaded(the link is
 
 Download  
 https://daneden.github.io/animate.css/  
-
+*NOTE*: If you visit the above link...you will also see a drop down menu which displays the different animations that are possible.  
 ## Video Tutorials...
 
 ### YouTube
