@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8">
+  <title>Bounce box</title>  
+  <link rel="stylesheet" type="text/css" href="animate.css">
+  <style>
+   .item{
+    background-color:red;
+    width:100px;
+    height:100px;
+    margin: 300px auto 0 auto;
+   }
+  </style>
+ </head>
+ <body>
+  <div class="item animated bounce"></div> 
+ </body>
+</html>
